@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**wallysaurus/wallysaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h3>╔═.☆.══════════╗</h3>
+<h3>wallysaurus</h3>
+<h3>╚══════════.☆.═╝</h3>
+</div>
+<h2>Working On</h2>
+<li><a href="">Skratch</a> / <a href="">SkratchPlugin</a>
+<li><a href="">Snake Wars</a>
+<h2>Contact</h2>
+Discord: wally#8955
