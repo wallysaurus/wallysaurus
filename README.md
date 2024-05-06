@@ -4,7 +4,9 @@
 <h3>╚══════════.☆.═╝</h3>
 </div>
 <h2>Working On</h2>
-<li><a href="https://github.com/wallysaurus/Skratch">Skratch</a> / <a href="https://github.com/wallysaurus/SkratchPlugin">SkratchPlugin</a>
-<li><a href="https://github.com/wallysaurus/snake-wars">Snake Wars</a>
+a school shark war game that makes me want to physically tear my eye sockets out
+a bot to monitor my spotify data because why not
+an app for something really cool
+something really cool
 <h2>Contact</h2>
 Discord: wallysaurus
